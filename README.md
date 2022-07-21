@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/#" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/#" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="azizaykut" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/#" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
-<a href="https://instagram.com/#" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /></a>
+<a href="https://instagram.com/#" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="azizaykut" height="30" width="30" /></a>
 </p>
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
@@ -34,9 +34,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-aykut&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizaykut&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aziz-aykut&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizaykut&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" />
 </p>
 
 
