@@ -33,7 +33,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizaykut&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizaykut&show_icons=true&theme=radical&locale=en&layout=compact" alt="azizaykut" /></p>
 
 
 
